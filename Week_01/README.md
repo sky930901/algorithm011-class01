@@ -5,3 +5,6 @@
 栈 stak 后进先出 （last-in-first-out:LIFO）
 队列 queue 先进先出
 双端队列 deque
+解题思路：
+链表必递归
+双指针：快慢双指针，夹逼双指针
